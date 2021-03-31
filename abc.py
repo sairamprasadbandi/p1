@@ -3,3 +3,4 @@
 
         # Add two numbers
         sum = num1 + num2
+        print(sum)
